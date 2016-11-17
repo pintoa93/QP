@@ -1,0 +1,5 @@
+for tkinter import *
+
+root = Tk()
+
+mainloop()
